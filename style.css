@@ -8,6 +8,11 @@ body {
   color: #fff;
   background-image: url(bg.jpg);
 }
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(181, 209, 21);
+}
 .container {
   background: rgb(77, 47, 47);
   background: linear-gradient(
